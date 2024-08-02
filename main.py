@@ -2,7 +2,7 @@ import streamlit as st
 from chatbot import DatingCoachChatbot
 
 def main():
-    st.markdown("<h1 style='text-align: center; color: #FF69B4;'>PremPandit: Dream AI Boyfriend for Swifties</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #FF69B4;'>Miracle: Dream AI Boyfriend for Swifties</h1>", unsafe_allow_html=True)
     
     ai_boyfriend_name = st.text_input("Enter the name you would like to give your AI Boyfriend:")
     
